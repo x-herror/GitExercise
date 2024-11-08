@@ -15,6 +15,7 @@ func main() {
 	fmt.Println("主干更新v1-feature3-bug")
 	fmt.Println("主干更新v1-feature4")
 	fmt.Println("主干更新v1-feature5")
+	fmt.Println("主干更新v1-feature6")
 	fmt.Println("主干更新v2")
 	fmt.Println("主干更新v2")
 	fmt.Println("主干更新v3")
