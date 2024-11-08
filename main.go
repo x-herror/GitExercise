@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("主干更新v2")
 	fmt.Println("主干更新v3")
 	fmt.Println("主干更新v4")
+	fmt.Println("主干更新v5")
 }
