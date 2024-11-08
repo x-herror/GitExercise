@@ -19,4 +19,5 @@ func main() {
 	fmt.Println("主干更新v4")
 	fmt.Println("主干更新v5")
 	fmt.Println("主干更新v6")
+	fmt.Println("主干更新v7")
 }
