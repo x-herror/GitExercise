@@ -6,6 +6,7 @@ func main() {
 	fmt.Println("Hello World!")
 	fmt.Println("主干更新v1")
 	fmt.Println("主干更新v1-feature0")
+	fmt.Println("主干更新v1-feature0-bugfix0")
 	fmt.Println("主干更新v1-feature1")
 	fmt.Println("主干更新v1-feature2")
 	fmt.Println("主干更新v2")
